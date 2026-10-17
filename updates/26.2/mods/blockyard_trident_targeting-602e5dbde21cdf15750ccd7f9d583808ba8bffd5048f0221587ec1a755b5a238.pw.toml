@@ -1,0 +1,8 @@
+name = "Blockyard Trident Targeting"
+filename = "BlockyardTridentTargeting-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://rattahamberg.github.io/blockyard-essentials/updates/26.2/objects/a1510dc892802a8d4530f15633a18176c36230f23c4e1c1da8d9d32b51e46eac.jar"
+hash-format = "sha256"
+hash = "a1510dc892802a8d4530f15633a18176c36230f23c4e1c1da8d9d32b51e46eac"

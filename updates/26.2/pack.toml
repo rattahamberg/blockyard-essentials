@@ -1,0 +1,12 @@
+name = "Blockyard Essentials"
+version = "1.5.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index-d5655d584d1b74587c0af9e605fb46d3af92b41afdc700e56361c4dc5963e36f.toml"
+hash-format = "sha256"
+hash = "d5655d584d1b74587c0af9e605fb46d3af92b41afdc700e56361c4dc5963e36f"
+
+[versions]
+minecraft = "26.2"
+fabric = "0.19.5"
